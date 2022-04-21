@@ -1,1 +1,1 @@
-# A project to help me learn Gatsby!!
+# A project to learn Gatsby!
